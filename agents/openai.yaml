@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Design"
+  short_description: "Purposeful UI motion, timing, and continuity"
+  default_prompt: "Use $motion-design to implement or review motion for this interface."
